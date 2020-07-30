@@ -1,0 +1,2 @@
+# EduQuraa
+My static website
