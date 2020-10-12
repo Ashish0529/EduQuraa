@@ -59,7 +59,7 @@ h3{
 
 nav ul
 {
-    background: linear-gradient(to left, red,white);
+    background: linear-gradient(to left, red,);
 }
 nav ul.topnav 
 {
@@ -125,10 +125,10 @@ body
 {
     margin: 0;
     padding: 0;
-    background: linear-gradient( to left,white,red) ;
+    background: linear-gradient( to left,red) ;
     font-size: 16px;
     color: black;
-    font-family:sans-serif;
+    font-family:Arial;
     font-weight: 300;
 }
 
