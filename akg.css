@@ -131,7 +131,20 @@ body
     font-family:sans-serif;
     font-weight: 300;
 }
-
+h1
+{
+    color:#fff;
+    text-align: center;
+    font-family: Arial;
+}
+higlight
+{
+    background-image: linear-gardient(to right,#f9989f, #fccb8f, #fafo96);
+    boarder-radius: 6px;
+    padding: 3px 6px;
+}   
+    
+    
 
 /*--------------------Registraion-------------------*/
 #login-box
